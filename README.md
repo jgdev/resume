@@ -59,16 +59,20 @@
       </td>
     </tr>
     <tr>
-      <th>Testing tools and suites</th>
+      <th>Testing tools</th>
       <td>
         <a href="https://jestjs.io/" rel="nofollow"><img src="./images/jest.svg" width="20px"
-            style="max-width: 100%;"> Jest</a>  
+            style="max-width: 100%;"> Jest</a>&nbsp;&nbsp;
         <a href="https://junit.org/junit5/" rel="nofollow"><img src="./images/junit.svg"
-            width="20px" style="max-width: 100%;"> JUnit</a>  
+            width="20px" style="max-width: 100%;"> JUnit</a>&nbsp;&nbsp;
         <a href="https://docs.pytest.org/" rel="nofollow"><img src="./images/pytest.svg"
-            width="18px" style="max-width: 100%;"> Pytest</a>
+            width="18px" style="max-width: 100%;"> Pytest</a>&nbsp;&nbsp;
         <a href="https://xunit.net/"><img src="./images/xunit.png" width="16px"
-            style="max-width: 100%;"> xUnit</a>
+            style="max-width: 100%;"> xUnit</a>&nbsp;&nbsp;
+        <a href="https://www.sonarsource.com/products/sonarqube/"><img src="./images/sonarqube.svg" width="16px"
+            style="max-width: 100%;"> SonarQube</a>&nbsp;&nbsp;
+        <a href="https://www.postman.com/"><img src="./images/postman.svg" width="16px"
+            style="max-width: 100%;"> Postman</a>
       </td>
     </tr>
   </tbody>
