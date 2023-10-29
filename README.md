@@ -58,14 +58,37 @@
         <a href="https://www.digitalocean.com/"><img src="./images/digitalocean.png" width="18px"/> Digital Ocean</a>
       </td>
     </tr>
+    <tr>
+      <th>Testing tools and suites</th>
+      <td>
+        <a href="https://jestjs.io/" rel="nofollow"><img src="./images/jest.svg" width="20px"
+            style="max-width: 100%;"> Jest</a>  
+        <a href="https://junit.org/junit5/" rel="nofollow"><img src="./images/junit.svg"
+            width="20px" style="max-width: 100%;"> JUnit</a>  
+        <a href="https://docs.pytest.org/" rel="nofollow"><img src="./images/pytest.svg"
+            width="18px" style="max-width: 100%;"> Pytest</a>
+        <a href="https://xunit.net/"><img src="./images/xunit.png" width="16px"
+            style="max-width: 100%;"> xUnit</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
 #### About
 
-I'm committed to craftsmanship quality code oriented to usability and both unit and integration testing, ensuring resilience, quality controls, metrics, I enjoy training teams to foster a culture of delivering value to the customer and business needs.
+I'm committed to craftsmanship quality code oriented to usability and both unit and integration testing. Ensuring resilience, quality controls and metrics. I enjoy training teams to foster a culture of delivering value to the customer and business needs.
 
 Passionate about physics 🔭⚛, Electrical engineering 🔋, hardware 🕹️, books📚 and music.
+
+#### What do I offer?
+
+Professional enterprise high-quality software development, understanding of the software development life-cycle in all it's stages, working hand-to-hand with product and UI/UX design teams to ensure the best possible results.
+
+I work directly with **Clean Code** as fundamental principle, I am well-versed in the principles of Clean Code and consistently apply them in my software development practices. I prioritize code readability, maintainability, and adherence to coding standards. I have a track record of successfully refactoring and improving existing codebases to enhance their quality and efficiency.
+
+I have a strong background in **TDD**, which involves writing unit tests before writing code. This approach ensures that my code is rigorously tested for reliability and correctness. I am proficient in using testing frameworks and tools such as JUnit, pytest and Jest. I have created and maintained extensive suites of automated tests to guarantee the robustness of software solutions.
+
+I possess a deep understanding of **DDD** concepts and have applied them to model complex business domains effectively. I am experienced in creating well-structured domain models that accurately represent real-world business processes. In my previous roles, I have utilized DDD tactical patterns, including Aggregates, Repositories, and Value Objects, to build software systems that align closely with business requirements.
 
 ## Most relevant working experience
 
