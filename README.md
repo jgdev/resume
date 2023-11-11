@@ -44,6 +44,7 @@ Joan Peralta<br/>
     <tr>
       <th>Mobile Development</th>
       <td>
+        <a href="https://reactnative.dev/"><img src="./images/react-native.svg" width="20px"/> React Native</a>&nbsp;&nbsp;
         <a href="https://developer.android.com/"><img src="./images/android.svg" width="20px"/> Android</a>&nbsp;&nbsp;
         <a href="https://developer.apple.com/ios/"><img src="./images/kotlin.svg" width="20px"/> Kotlin</a>&nbsp;&nbsp;
         <a href="https://developer.apple.com/ios/"><img src="./images/ios.svg" width="20px"/> iOS</a>&nbsp;&nbsp;
