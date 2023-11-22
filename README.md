@@ -2,8 +2,9 @@
 <img src="./images/profile.png" width="128px" style="padding: 0; margin: 0;"/><br />
 <h2 align="center">
 <div style="font-size: 1rem;margin-bottom: 0.4rem;" >9yrs+ software engineer experience.</div>
-<a href="https://www.linkedin.com/in/joan-peralta/">Joan Gabriel Peralta Santana</a><br/>
+Joan Peralta<br/>
 </h2>
+<p align="center"><a href="mailto://joanperalta13@gmail.com">joanperalta13@gmail.com</a> - <a href="https://www.linkedin.com/in/joan-peralta/">LinkedIn</a></p>
 </p>
 
 ##### Main technologies
@@ -45,6 +46,7 @@
     <tr>
       <th>Mobile Development</th>
       <td>
+        <a href="https://reactnative.dev/"><img src="./images/react-native.svg" width="20px"/> React Native</a>&nbsp;&nbsp;
         <a href="https://developer.android.com/"><img src="./images/android.svg" width="20px"/> Android</a>&nbsp;&nbsp;
         <a href="https://developer.apple.com/ios/"><img src="./images/kotlin.svg" width="20px"/> Kotlin</a>&nbsp;&nbsp;
         <a href="https://developer.apple.com/ios/"><img src="./images/ios.svg" width="20px"/> iOS</a>&nbsp;&nbsp;
