@@ -6,6 +6,8 @@
 </h2>
 </p>
 
+##### Main technologies
+
 <table align="center">
   <tbody>
     <tr>
@@ -123,3 +125,39 @@ I possess a deep understanding of **DDD** concepts and have applied them to mode
 #### Unión Telecard Dominicana & Unlimited-Recharge
 
 `[On-site] Dominican Republic, Jun 2014 - Mar 2016 · 1 year & 10 months`<br /> _Private project_.
+
+## General skills
+
+#### Web development
+
+- **Expert knowledge of HTML5, CSS3 and JavaScript**.
+- Strong knowledge of most popular front-end JavaScript frameworks and libraries (AngularJS, Vue.js).
+- Proficient proven experience working with **React** libraries and it's ecosystem (Redux & Redux Toolkit, NextJS and Gastby).
+- Strong knowledge of responsive design and browse compatibility.
+- Strong knowledge of Web Accessibility and SEO rules.
+- Strong knowledge implementing fluent UI and riches UX.
+
+#### Backend development
+
+- Strong knowledge of Node.js (ExpressJS, KoaJS/2, Typescript, NestJS, Socket.io, Moleculer.services).
+- Professional craftsmanship of well design and well documented high-performance RESTful API’s.
+- Competent experience with PHP and Laravel framework.
+- Strong knowledge of PostgreSQL, MySQL/MariaDB, SQL Server, MongoDB and in memory databases like REDIS, MemCache.
+- Expert knowledge of Elixir and Python.
+- Basic knowledge of C/C++, Clojure/ClojureScript and Ruby.
+
+#### Mobile
+
+- Strong knowledge of native Android applications with Java and Kotlin.
+- Basic knowledge of iOS development with Swift.
+- Experience building cross-platform applications using Ionic/Apache Cordova/Phonegap and React Native.
+
+#### Miscellaneous
+
+- Proficient with UNIX operating systems.
+- Strong knowledge of version control with Git.
+- Strong knowledge of Infrastructure Docker and Kubernetes, cloud services with AWS, GCP, DigitalOcean, Azure, Firebase and Serverless.
+- Strong experience with CI/CD and automated deployment processes.
+- Strong knowledge of application testing with TDD and BDD.
+- Strong knowledge with search engines like AWS ElasticSearch and Apache Solr.
+- Strong knowledge with SonarQube and linter tools.
