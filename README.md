@@ -2,7 +2,7 @@
 <img src="./images/profile.png" width="128px" style="padding: 0; margin: 0;"/><br />
 <h2 align="center">
 <div style="font-size: 1rem;margin-bottom: 0.4rem;" >
-Joan Peralta<br/>9+ years of software engineer experience.</div>
+Joan Peralta<br/>10+ years of software engineer experience.</div>
 </h2>
 <p align="center"><a href="mailto://joanperalta13@gmail.com">joanperalta13@gmail.com</a> - <a href="https://www.linkedin.com/in/joan-peralta/">LinkedIn</a> - <a href="https://github.com/jgdev/resume/blob/main/COVER_LETTER.md">Cover Letter</a></p>
 </p>
