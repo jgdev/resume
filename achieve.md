@@ -36,6 +36,6 @@ Additionally, I’ve worked on integrating various **APIs**—from third-party s
 
 #### Showcase
 
-[![Achieve](./videos/achieve-1.mp4)]()
+<video src="./videos/achieve-1.mp4"/>
 
-[![FDR](./videos/fdr-1.mp4)]()
+<video src="./videos/fdr-1.mp4" />
