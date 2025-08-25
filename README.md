@@ -7,86 +7,19 @@ Joan Peralta<br/>10+ years of software engineer experience.</div>
 <p align="center"><a href="mailto://joanperalta13@gmail.com">joanperalta13@gmail.com</a> - <a href="https://www.linkedin.com/in/joan-peralta/">LinkedIn</a> - <a href="https://github.com/jgdev/resume/blob/main/COVER_LETTER.md">Cover Letter</a></p>
 </p>
 
-<!-- ##### Main technologies
-
-<table align="center">
-  <tbody>
-    <tr>
-      <th>Frontend</th>
-      <td>
-        <a href="https://react.dev/"><img src="./images/react.svg" width="16px"/> React.js</a>&nbsp;&nbsp;
-        <a href="https://www.typescriptlang.org/"><img src="./images/typescript.svg" width="22px"/> TypeScript</a>&nbsp;&nbsp;
-        <a href="https://vuejs.org/"><img src="./images/vue.svg" width="22px"/> Vue.js</a>&nbsp;&nbsp;
-        <a href="https://vitejs.dev/"><img src="./images/vite.svg" width="22px"/> Vite<a>&nbsp;&nbsp;
-        <a href="https://nextjs.org/"><img src="./images/nextjs.svg" width="22px"/> Next.js</a>
-      </td>
-    </tr>
-    <tr>
-      <th>Backend</th>
-      <td>
-        <a href="https://nodejs.org"/><img src="./images/nodejs.svg" width="16px"/> Node.js</a>&nbsp;&nbsp;
-        <a href="https://nodejs.org"/><img src="./images/nestjs.svg" width="16px"/> Nest.js</a>&nbsp;&nbsp;
-        <a href="https://dotnet.microsoft.com/"><img src="./images/dotnet.svg" width="20px"/> dotnet</a>  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">ASP.NET</a>&nbsp;&nbsp;
-        <a href="https://go.dev/"><img src="./images/golang.svg" width="20px"/> Golang</a>&nbsp;&nbsp;
-        <a href="https://www.python.org/"><img src="./images/python.svg" width="20px"/> Python</a>&nbsp;&nbsp;<a href="https://www.django-rest-framework.org"> Django REST Framework</a><br/>
-        <a href="https//php.net"><img src="./images/php.svg" width="20px"/> PHP</a>&nbsp;&nbsp;
-        <a href="https//php.net"><img src="./images/drupal.svg" width="20px"/> Drupal</a>&nbsp;&nbsp;
-        <a href="https//php.net"><img src="./images/laravel.png" width="20px"/> Laravel Framework</a>
-      </td>
-    </tr>
-    <tr>
-      <th>Databases / Cache</th>
-      <td>
-        <a href="https://redis.io/"/><img src="./images/redis.svg" width="16px"/> Redis</a>&nbsp;&nbsp;
-        <a href="https://www.postgresql.org/"/><img src="./images/mongodb.svg" width="16px"/> MongoDB</a>&nbsp;&nbsp;
-        <a href="https://www.postgresql.org/"/><img src="./images/postgres.svg" width="16px"/> PostgreSQL</a>&nbsp;&nbsp;
-        <a href="https://www.mysql.com/"/><img src="./images/mysql.svg" width="16px"/> MySQL</a>
-      </td>
-    </tr>
-    <tr>
-      <th>Mobile Development</th>
-      <td>
-        <a href="https://reactnative.dev/"><img src="./images/react-native.svg" width="20px"/> React Native</a>&nbsp;&nbsp;
-        <a href="https://developer.android.com/"><img src="./images/android.svg" width="20px"/> Android</a>&nbsp;&nbsp;
-        <a href="https://developer.apple.com/ios/"><img src="./images/kotlin.svg" width="20px"/> Kotlin</a>&nbsp;&nbsp;
-        <a href="https://developer.apple.com/ios/"><img src="./images/ios.svg" width="20px"/> iOS</a>&nbsp;&nbsp;
-        <a href="https://developer.apple.com/ios/"><img src="./images/swift.svg" width="20px"/> Swift</a>&nbsp;&nbsp;
-        <a href="https://flutter.dev/"><img src="./images/flutter.svg" width="20px"/> Flutter</a>
-      </td>
-    </tr>
-    <tr>
-      <th>Cloud Platforms</th>
-      <td>
-        <a href="https://developer.android.com/](https://cloud.google.com/"><img src="./images/gcp.svg" width="20px"/> Google Cloud Platform</a>&nbsp;&nbsp;
-        <a href="https://aws.amazon.com/"><img src="./images/aws.svg" width="20px"/> Amazon Web Services</a>&nbsp;&nbsp;
-        <a href="https://www.digitalocean.com/"><img src="./images/digitalocean.png" width="18px"/> Digital Ocean</a>
-      </td>
-    </tr>
-    <tr>
-      <th>Testing tools</th>
-      <td>
-        <a href="https://jestjs.io/" rel="nofollow"><img src="./images/jest.svg" width="20px"
-            style="max-width: 100%;"> Jest</a>&nbsp;&nbsp;
-        <a href="https://junit.org/junit5/" rel="nofollow"><img src="./images/junit.svg"
-            width="20px" style="max-width: 100%;"> JUnit</a>&nbsp;&nbsp;
-        <a href="https://docs.pytest.org/" rel="nofollow"><img src="./images/pytest.svg"
-            width="18px" style="max-width: 100%;"> Pytest</a>&nbsp;&nbsp;
-        <a href="https://xunit.net/"><img src="./images/xunit.png" width="16px"
-            style="max-width: 100%;"> xUnit</a>&nbsp;&nbsp;
-        <a href="https://www.sonarsource.com/products/sonarqube/"><img src="./images/sonarqube.svg" width="16px"
-            style="max-width: 100%;"> SonarQube</a>&nbsp;&nbsp;
-        <a href="https://www.postman.com/"><img src="./images/postman.svg" width="16px"
-            style="max-width: 100%;"> Postman</a>
-      </td>
-    </tr>
-  </tbody>
-</table> -->
-
 ## Most relevant working experience
+
+#### Full-Stack Software Engineer - Achieve
+
+`[Remote] Tempe, Arizona - US, May 2024 - Present`<br/> [Full details](./achieve.md)
+
+#### Software Engineer - Metalab
+
+`[Remote] Canada, Jan 2024 - May 2024 · 4 months`<br/> [Full details](./metalab.md)
 
 #### Lead Full-Stack Software Developer - Data Tangente
 
-`[Remote] Dominican Republic, Aug 2023 - Present`<br/> [Full details](./data-tangente.md)
+`[Remote] Dominican Republic, Aug 2023 - Jan 2024 · 6 months`<br/> [Full details](./data-tangente.md)
 
 #### React Native Developer - Grupo Humano
 
@@ -147,3 +80,79 @@ Joan Peralta<br/>10+ years of software engineer experience.</div>
 - Strong knowledge of application testing with TDD and BDD.
 - Strong knowledge with search engines like AWS ElasticSearch and Apache Solr.
 - Strong knowledge with SonarQube and linter tools.
+
+##### Main technologies
+
+<table align="center">
+  <tbody>
+    <tr>
+      <th>Frontend</th>
+      <td>
+        <a href="https://react.dev/"><img src="./images/react.svg" width="16px"/> React.js</a>&nbsp;&nbsp;
+        <a href="https://www.typescriptlang.org/"><img src="./images/typescript.svg" width="22px"/> TypeScript</a>&nbsp;&nbsp;
+        <a href="https://vuejs.org/"><img src="./images/vue.svg" width="22px"/> Vue.js</a>&nbsp;&nbsp;
+        <a href="https://vitejs.dev/"><img src="./images/vite.svg" width="22px"/> Vite<a>&nbsp;&nbsp;
+        <a href="https://nextjs.org/"><img src="./images/nextjs.svg" width="22px"/> Next.js</a>
+      </td>
+    </tr>
+    <tr>
+      <th>Backend</th>
+      <td>
+        <a href="https://nodejs.org"/><img src="./images/nodejs.svg" width="16px"/> Node.js</a>&nbsp;&nbsp;
+        <a href="https://nodejs.org"/><img src="./images/nestjs.svg" width="16px"/> Nest.js</a>&nbsp;&nbsp;
+        <a href="https://dotnet.microsoft.com/"><img src="./images/dotnet.svg" width="20px"/> dotnet</a>  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">ASP.NET</a>&nbsp;&nbsp;
+        <a href="https://go.dev/"><img src="./images/golang.svg" width="20px"/> Golang</a>&nbsp;&nbsp;
+        <a href="https://www.python.org/"><img src="./images/python.svg" width="20px"/> Python</a>&nbsp;&nbsp;<a href="https://www.django-rest-framework.org"> Django REST Framework</a><br/>
+        <a href="https//php.net"><img src="./images/php.svg" width="20px"/> PHP</a>&nbsp;&nbsp;
+        <a href="https//php.net"><img src="./images/drupal.svg" width="20px"/> Drupal</a>&nbsp;&nbsp;
+        <a href="https//php.net"><img src="./images/laravel.png" width="20px"/> Laravel Framework</a>
+      </td>
+    </tr>
+    <tr>
+      <th>Databases / Cache</th>
+      <td>
+        <a href="https://redis.io/"/><img src="./images/redis.svg" width="16px"/> Redis</a>&nbsp;&nbsp;
+        <a href="https://www.postgresql.org/"/><img src="./images/mongodb.svg" width="16px"/> MongoDB</a>&nbsp;&nbsp;
+        <a href="https://www.postgresql.org/"/><img src="./images/postgres.svg" width="16px"/> PostgreSQL</a>&nbsp;&nbsp;
+        <a href="https://www.mysql.com/"/><img src="./images/mysql.svg" width="16px"/> MySQL</a>
+      </td>
+    </tr>
+    <tr>
+      <th>Mobile Development</th>
+      <td>
+        <a href="https://reactnative.dev/"><img src="./images/react-native.svg" width="20px"/> React Native</a>&nbsp;&nbsp;
+        <a href="https://developer.android.com/"><img src="./images/android.svg" width="20px"/> Android</a>&nbsp;&nbsp;
+        <a href="https://developer.apple.com/ios/"><img src="./images/kotlin.svg" width="20px"/> Kotlin</a>&nbsp;&nbsp;
+        <a href="https://developer.apple.com/ios/"><img src="./images/ios.svg" width="20px"/> iOS</a>&nbsp;&nbsp;
+        <a href="https://developer.apple.com/ios/"><img src="./images/swift.svg" width="20px"/> Swift</a>&nbsp;&nbsp;
+        <a href="https://flutter.dev/"><img src="./images/flutter.svg" width="20px"/> Flutter</a>
+      </td>
+    </tr>
+    <tr>
+      <th>Cloud Platforms</th>
+      <td>
+        <a href="https://developer.android.com/](https://cloud.google.com/"><img src="./images/gcp.svg" width="20px"/> Google Cloud Platform</a>&nbsp;&nbsp;
+        <a href="https://aws.amazon.com/"><img src="./images/aws.svg" width="20px"/> Amazon Web Services</a>&nbsp;&nbsp;
+        <a href="https://www.digitalocean.com/"><img src="./images/digitalocean.png" width="18px"/> Digital Ocean</a>
+        <a href="https://www.cloudflare.com/"><img src="./images/cloudflare.png" width="20px"/> CloudFlare</a> 
+      </td>
+    </tr>
+    <tr>
+      <th>Testing tools</th>
+      <td>
+        <a href="https://jestjs.io/" rel="nofollow"><img src="./images/jest.svg" width="20px"
+            style="max-width: 100%;"> Jest</a>&nbsp;&nbsp;
+        <a href="https://junit.org/junit5/" rel="nofollow"><img src="./images/junit.svg"
+            width="20px" style="max-width: 100%;"> JUnit</a>&nbsp;&nbsp;
+        <a href="https://docs.pytest.org/" rel="nofollow"><img src="./images/pytest.svg"
+            width="18px" style="max-width: 100%;"> Pytest</a>&nbsp;&nbsp;
+        <a href="https://xunit.net/"><img src="./images/xunit.png" width="16px"
+            style="max-width: 100%;"> xUnit</a>&nbsp;&nbsp;
+        <a href="https://www.sonarsource.com/products/sonarqube/"><img src="./images/sonarqube.svg" width="16px"
+            style="max-width: 100%;"> SonarQube</a>&nbsp;&nbsp;
+        <a href="https://www.postman.com/"><img src="./images/postman.svg" width="16px"
+            style="max-width: 100%;"> Postman</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
