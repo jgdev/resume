@@ -36,6 +36,8 @@ Additionally, I’ve worked on integrating various **APIs**—from third-party s
 
 #### Showcase
 
-<video src="./videos/achieve-1.mp4"/>
+https://github.com/user-attachments/assets/43c4247e-b059-40b1-b22a-b295b62a2de1
 
-<video src="./videos/fdr-1.mp4" />
+https://github.com/user-attachments/assets/b106e018-4d5d-4a7c-9f09-2527ac6d3b50
+
+
