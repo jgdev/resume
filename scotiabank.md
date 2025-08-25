@@ -7,6 +7,8 @@ I've create and maintain high performance code over 90% testability, improving R
 
 Build login and dashboard features for major Latin-American online internet banking.
 
+#### Technologies
+
 - [<img src="./images/nodejs.svg" width="22px"> Node.js](https://nodesjs.org/)
 - [<img src="./images/react.svg" width="22px"> React.js](https://react.dev/)
 - [Web Content Accessibility Guidelines](https://developer.mozilla.org/en-US/docs/Web/Accessibility)

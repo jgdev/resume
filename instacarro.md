@@ -1,10 +1,13 @@
 # InstaCarro
 
-### [InstaCarro web site](https://instacarro.com)
+### [InstaCarro website](https://instacarro.com)
 
 I took action defining architectural solutions and processes to improve end-to-end testability, code quality and product delivery, and took part in the research and proof-of-concepts of new technologies and contributed to software architecture designs, building near real-time distributed systems to empower Brazil's fastest growing online car auctioning platform.
 
 I helped other departments as Marketing measuring metrics proposing and implementing a feature oriented architecture flexible to A/B testing, increasing business conversions.
+
+
+#### Technologies
 
 - <span><a href="https://git-scm.com/"><img src="./images/git.svg" alt="GitLogo" width="22px"/>Git</a></span> and <span><a href="https://bitbucket.org/"><img src="./images/bitbucket.svg" alt="GitLogo" width="20px"/> Bitbucket</a> & Pipelines
 - [<img src="./images/nodejs.svg" width="22px" /> Node.js](https://nodejs.org/)

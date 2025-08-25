@@ -133,8 +133,8 @@ Joan Peralta<br/>10+ years of software engineer experience.</div>
       <td>
         <a href="https://developer.android.com/](https://cloud.google.com/"><img src="./images/gcp.svg" width="20px"/> Google Cloud Platform</a>&nbsp;&nbsp;
         <a href="https://aws.amazon.com/"><img src="./images/aws.svg" width="20px"/> Amazon Web Services</a>&nbsp;&nbsp;
-        <a href="https://www.digitalocean.com/"><img src="./images/digitalocean.png" width="18px"/> Digital Ocean</a>
-        <a href="https://www.cloudflare.com/"><img src="./images/cloudflare.png" width="20px"/> CloudFlare</a> 
+        <a href="https://www.digitalocean.com/"><img src="./images/digitalocean.png" width="18px"/> Digital Ocean</a>&nbsp;&nbsp;
+        <a href="https://www.cloudflare.com/"><img src="./images/cloudflare.webp" width="20px"/> CloudFlare</a> 
       </td>
     </tr>
     <tr>

@@ -4,6 +4,8 @@
 
 Provide and implement architectural recommendations based on their future technical and business goals, I collaborated hand to hand with the UX/UI and Product team to ensure the applications meets the feature requirements and was instantly responsive to the end user. Also help implementing system metrics and stream logging solutions for a distribuited micro-services architecture.
 
+#### Technologies
+
 - Continius Delivery and continious integration (CI/CD) with <a href="https://git-scm.com/"><img src="./images/git.svg" width="22px"/>Git</a> and <a href="https://github.com/"><img src="./images/github.svg" width="20px"/> Github</a>
 - Mobile development with <a href="https://reactnative.dev/"><img src="./images/react.svg" width="20px"/> React Native</a>
 - RESTful api design: <a href="https://elixir-lang.org/"><img src="./images/elixir.svg" width="22px"/> Elixir</a> and <a href="https://www.phoenixframework.org/">Phoenix Framework</a>
@@ -16,6 +18,8 @@ Provide and implement architectural recommendations based on their future techni
 
 I have provided and implemented recomendations to reduce site response times, creating db indexes optimizing backend queries, moving site assets to a content devery network (CDN), redirect site work-load implementing load-balancing techniques, resulting in improvements of 70% initial load and better user experience for a Llearning and certification platform.
 
+#### Technologies
+
 - [<img src="./images/drupal.svg?" width="20px"/> Drupal](https://www.drupal.org/)
 - [<img src="./images/jquery.svg?" width="20px"/> jQuery](https://jquery.com/)
 - [<img src="./images/mysql.svg?" width="20px"/> MySQL](https://www.mysql.com/)
@@ -26,6 +30,9 @@ I have provided and implemented recomendations to reduce site response times, cr
 ### Co&Co-MVP (private)
 
 I showcase my expertise in leveraging a cutting-edge technology stack to enhance product development for a micro-transaction focused social network for celebrities. The architecture proposed and implemented ensures scalability, real-time data synchronization, streamlined deployment, and high-performance transaction processing, essential for successful user engagement and monetization.
+
+
+#### Technologies
 
 - [<img src="./images/aws.svg" width="22px" /> Amazon Web Services](https://aws.amazon.com/)
 - [<img src="./images/lambda.svg" width="20px" /> Lambda](https://aws.amazon.com/en/lambda/)
