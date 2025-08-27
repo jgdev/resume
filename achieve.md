@@ -30,6 +30,7 @@ Additionally, I’ve worked on integrating various **APIs**—from third-party s
 - [<img src="./images/bitbucket.svg" width="20px" /> Bitbucket](https://bitbucket.org/) 
 - [<img src="./images/kubernetes.svg" width="24px" /> Kubernetes](https://kubernetes.io/)
 - [<img src="./images/gcp.svg" width="24px" /> GCP](https://cloud.google.com/)
+- [<img src="./images/cloudflare.webp" width="24px" /> CloudFlare](https://www.cloudflare.com/)
 - Site readability
 - Site optimization
 - Responsive design
