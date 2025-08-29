@@ -1,0 +1,261 @@
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-Black.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-BlackItalic.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-Bold.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-BoldItalic.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-Heavy.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-HeavyItalic.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-LightItalic.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-Light.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-Medium.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-Regular.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-MediumItalic.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-RegularItalic.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-SemiboldItalic.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-Semibold.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-ThinItalic.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-Thin.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-Ultralight.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-Ultralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BlinkMacSystemFont';
+    src: url('../fonts/BlinkMacSystemFont-UltralightItalic.woff2') format('woff2'),
+        url('../fonts/BlinkMacSystemFont-UltralightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+:root {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+body {
+  max-width: 720px;
+  margin: auto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
+  padding: 0rem;
+}
+
+#profile,
+h1:first-child {
+  display: none;
+}
+
+a {
+  color: #0969da;
+}
+
+h1 {
+    padding-bottom: .3em;
+    font-size: 2em;
+    border-bottom: 1px solid #d1d9e0b3;
+}
+
+h2 {
+    padding-bottom: .3em;
+    font-size: 1.5em;
+    border-bottom: 1px solid #d1d9e0b3;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: var(1.5rem);
+    margin-bottom: var(1rem);
+    font-weight: var(600);
+    line-height: 1.25;
+}
+
+ code {
+    padding: .2em .4em;
+    margin: 0;
+    font-size: 85%;
+    white-space: break-spaces;
+    background-color: #818b981f;
+    border-radius: 6px;
+}
+
+#main-technologies {
+  margin-top: 12rem;
+}
+
+table {
+    display: block;
+    width: 100%;
+    width: max-content;
+    max-width: 100%;
+    overflow: auto;
+    font-variant: tabular-nums;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+table th {
+    padding: 6px 13px;
+    border: 1px solid #d1d9e0;
+}
+
+table tr {
+  background-color: #ffffff;
+  border-top: 1px solid #d1d9e0b3;
+}
+
+table tr:nth-child(2n) {
+    background-color: #f6f8fa;
+}
+
+table td {
+  padding: 6px 13px;
+  border: 1px solid #d1d9e0;
+}
+
+table tr td {
+  
+  display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(2, 1fr);
+grid-column-gap: 20px;
+grid-row-gap: 10px;
+}
+table td a {
+  display: block;
+}

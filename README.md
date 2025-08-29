@@ -1,10 +1,10 @@
 # CV
 
 <p align="center">
-<img src="./images/profile.png" width="128px" style="padding: 0; margin: 0;"/><br />
+<img src="./images/profile.png" width="128px" style="padding: 0; margin: 0;" id="profile"/><br />
 <h2 align="center">
 <div style="font-size: 1rem;margin-bottom: 0.4rem;" >
-Joan Peralta<br/>10+ years of software engineer experience.</div>
+Joan Peralta<br/>10+ years as professional software engineer.</div>
 </h2>
 <p align="center"><a href="mailto://joanperalta13@gmail.com">joanperalta13@gmail.com</a> - <a href="https://www.linkedin.com/in/joan-peralta/">LinkedIn</a> - <a href="https://github.com/jgdev/resume/blob/main/COVER_LETTER.md">Cover Letter</a></p>
 </p>
@@ -43,9 +43,9 @@ Joan Peralta<br/>10+ years of software engineer experience.</div>
 
 `[Remote] São Paulo - Brazil, Jan 2017 - Jan 2019 · 2 years`<br/>[Full details](./instacarro.md)
 
-#### Unión Telecard Dominicana & Unlimited-Recharge
+<!-- #### Unión Telecard Dominicana & Unlimited-Recharge
 
-`[On-site] Dominican Republic, Jun 2014 - Mar 2016 · 1 year & 10 months`<br /> _Private project_.
+`[On-site] Dominican Republic, Jun 2014 - Mar 2016 · 1 year & 10 months`<br /> _Private project_. -->
 
 ## General skills
 
@@ -83,6 +83,8 @@ Joan Peralta<br/>10+ years of software engineer experience.</div>
 - Strong knowledge with search engines like AWS ElasticSearch and Apache Solr.
 - Strong knowledge with SonarQube and linter tools.
 
+<div id="main-technologies" />
+
 ##### Main technologies
 
 <table align="center">
@@ -93,30 +95,31 @@ Joan Peralta<br/>10+ years of software engineer experience.</div>
         <a href="https://react.dev/"><img src="./images/react.svg" width="16px"/> React.js</a>&nbsp;&nbsp;
         <a href="https://www.typescriptlang.org/"><img src="./images/typescript.svg" width="22px"/> TypeScript</a>&nbsp;&nbsp;
         <a href="https://vuejs.org/"><img src="./images/vue.svg" width="22px"/> Vue.js</a>&nbsp;&nbsp;
-        <a href="https://vitejs.dev/"><img src="./images/vite.svg" width="22px"/> Vite<a>&nbsp;&nbsp;
+        <a href="https://vitejs.dev/"><img src="./images/vite.svg" width="22px"/> Vite</a>&nbsp;&nbsp;
         <a href="https://nextjs.org/"><img src="./images/nextjs.svg" width="22px"/> Next.js</a>
       </td>
     </tr>
     <tr>
       <th>Backend</th>
       <td>
-        <a href="https://nodejs.org"/><img src="./images/nodejs.svg" width="16px"/> Node.js</a>&nbsp;&nbsp;
-        <a href="https://nodejs.org"/><img src="./images/nestjs.svg" width="16px"/> Nest.js</a>&nbsp;&nbsp;
-        <a href="https://dotnet.microsoft.com/"><img src="./images/dotnet.svg" width="20px"/> dotnet</a>  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">ASP.NET</a>&nbsp;&nbsp;
+        <a href="https://nodejs.org"><img src="./images/nodejs.svg" width="16px"/> Node.js</a>&nbsp;&nbsp;
+        <a href="https://nodejs.org"><img src="./images/nestjs.svg" width="16px"/> Nest.js</a>&nbsp;&nbsp;
+        <a href="https://dotnet.microsoft.com/"><img src="./images/dotnet.svg" width="20px"/> dotnet</a>  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="./images/dotnet.svg" width="20px"/> ASP.NET</a>&nbsp;&nbsp;
         <a href="https://go.dev/"><img src="./images/golang.svg" width="20px"/> Golang</a>&nbsp;&nbsp;
-        <a href="https://www.python.org/"><img src="./images/python.svg" width="20px"/> Python</a>&nbsp;&nbsp;<a href="https://www.django-rest-framework.org"> Django REST Framework</a><br/>
+        <a href="https://www.python.org/"><img src="./images/python.svg" width="20px"/> Python</a>&nbsp;&nbsp;
+        <a href="https://www.django-rest-framework.org"><img src="./images/python.svg" width="20px"/> Django REST Framework</a>&nbsp;&nbsp;
         <a href="https//php.net"><img src="./images/php.svg" width="20px"/> PHP</a>&nbsp;&nbsp;
-        <a href="https//php.net"><img src="./images/drupal.svg" width="20px"/> Drupal</a>&nbsp;&nbsp;
-        <a href="https//php.net"><img src="./images/laravel.png" width="20px"/> Laravel Framework</a>
+        <a href="https://new.drupal.org/home"><img src="./images/drupal.svg" width="20px"/> Drupal</a>&nbsp;&nbsp;
+        <a href="https://laravel.com/"><img src="./images/laravel.png" width="20px"/> Laravel Framework</a>
       </td>
     </tr>
     <tr>
       <th>Databases / Cache</th>
       <td>
-        <a href="https://redis.io/"/><img src="./images/redis.svg" width="16px"/> Redis</a>&nbsp;&nbsp;
-        <a href="https://www.postgresql.org/"/><img src="./images/mongodb.svg" width="16px"/> MongoDB</a>&nbsp;&nbsp;
-        <a href="https://www.postgresql.org/"/><img src="./images/postgres.svg" width="16px"/> PostgreSQL</a>&nbsp;&nbsp;
-        <a href="https://www.mysql.com/"/><img src="./images/mysql.svg" width="16px"/> MySQL</a>
+        <a href="https://redis.io/"><img src="./images/redis.svg" width="16px"/> Redis</a>&nbsp;&nbsp;
+        <a href="https://www.postgresql.org/"><img src="./images/mongodb.svg" width="16px"/> MongoDB</a>&nbsp;&nbsp;
+        <a href="https://www.postgresql.org/"><img src="./images/postgres.svg" width="16px"/> PostgreSQL</a>&nbsp;&nbsp;
+        <a href="https://www.mysql.com/"><img src="./images/mysql.svg" width="16px"/> MySQL</a>
       </td>
     </tr>
     <tr>
