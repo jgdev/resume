@@ -2,10 +2,9 @@
 
 ### [Online banking platform](http://banking.online.scotiabank.com/account?country=DO&language=es)
 
+Created and maintained high-performance code with 90%+ test coverage, improving a growing React.js codebase through optimized algorithms, faster load/response times, payment integrations, and best practices for an international internet banking platform.
 
-I've create and maintain high performance code over 90% testability, improving React.js project growing code-base, implementing algorithms and techniques to optimize the load and response times, payment integrations and best code practices for an international internet banking platform.
-
-Build login and dashboard features for major Latin-American online internet banking.
+Built secure login and dashboard features for a major Latin American online banking service.
 
 #### Technologies
 

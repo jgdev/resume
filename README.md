@@ -13,35 +13,73 @@ Joan Peralta<br/>10+ years as professional software engineer.</div>
 
 #### Full-Stack Software Engineer - Achieve
 
-`[Remote] Tempe, Arizona - US, May 2024 - Present`<br/> [Full details](./achieve.md)
+`[Remote] Tempe, Arizona - US, May 2024 - Present`<br/>
+
+- Built and optimized a high-performance Next.js platform handling 20k+ users per minute, leveraging SSR for scalability and SEO, improving Core Web Vitals (LCP, FID, CLS) with lazy loading, code splitting, caching, and Cloudflare CDN/security.
+- Boosted user engagement and conversions by integrating A/B testing, session recording, and seamless API integrations for real-time data exchange and enhanced UX.
+
+[Full details](./achieve.md)
+
+<hr />
 
 #### Software Engineer - Metalab
 
-`[Remote] Canada, Jan 2024 - May 2024 · 4 months`<br/> [Full details](./metalab.md)
+`[Remote] Canada, Jan 2024 - May 2024 · 4 months`<br/>
+
+- Enhanced The Child Mind Institute’s open-source mental health platform, improving accessibility across web and mobile through contributions in React and React Native.
+
+[Full details](./metalab.md)
+
+<hr />
 
 #### Lead Full-Stack Software Developer - Data Tangente
 
-`[Remote] Dominican Republic, Aug 2023 - Jan 2024 · 6 months`<br/> [Full details](./data-tangente.md)
+`[Remote] Dominican Republic, Aug 2023 - Jan 2024 · 6 months`<br/>
 
-#### React Native Developer - Grupo Humano
+- Architected and implemented from scratch a modern web and mobile real estate platform with 3rd-party credit bureau integrations, subscription systems, and payment integrations.
 
-`[Remote] Dominican Republic, Apr 2023 - Sep 2023 · 6 months`<br/> _Private project_.
+[Full details](./data-tangente.md)
+
+<hr />
 
 #### Backend Software Engineer - Foxbox Digital
 
-`[Remote] Chicago, Illinois - US, Feb 2022 - Nov 2022 · 10 months`<br/>[Full details](./foxbox-digital.md)
+`[Remote] Chicago, Illinois - US, Feb 2022 - Nov 2022 · 10 months`<br/>
+
+- Implemented architectural recommendations aligned with business goals, collaborating with UX/UI and Product teams to deliver responsive applications, while adding system metrics and stream logging to a distributed microservices architecture.
+
+[Full details](./foxbox-digital.md)
+
+<hr />
 
 #### Full-Stack Software Engineer - Scotiabank
 
-`[Remote] Ontario - Canada, Jan 2021 - Feb 2022 · 1 year & 2 months`<br/>[Full details](./scotiabank.md)
+`[Remote] Ontario - Canada, Jan 2021 - Feb 2022 · 1 year & 2 months`<br/>
+
+- Developed high-performance, 90%+ test-covered React.js systems with optimized load times, payment integrations, and core features (login/dashboard) for a leading Latin American online banking platform.
+
+[Full details](./scotiabank.md)
+
+<hr />
 
 #### Full-Stack Software Engineer - point payments
 
-`[On-site] Dominican Republic, Jan 2019 - Dec 2020 · 1 year & 2 months`<br/> _Private project_.
+`[On-site] Dominican Republic, Jan 2019 - Dec 2020 · 1 year & 2 months`<br/>
+
+- Built and pivoted a SaaS payments startup from MVP, developing backend and frontend systems with 3rd-party payment gateway integrations, plus a content management platform to boost user engagement and digital marketing.
+
+_No details, private project_.
+
+<hr />
 
 #### Full-Stack Software Engineer - InstaCarro
 
-`[Remote] São Paulo - Brazil, Jan 2017 - Jan 2019 · 2 years`<br/>[Full details](./instacarro.md)
+`[Remote] São Paulo - Brazil, Jan 2017 - Jan 2019 · 2 years`<br/>
+
+- Architected scalable distributed systems handling 2k–120k requests/min for Brazil’s fastest-growing car auction platform.
+- Implemented feature-oriented architecture enabling A/B testing, improving metrics tracking and boosting business conversions.
+
+[Full details](./instacarro.md)
 
 <!-- #### Unión Telecard Dominicana & Unlimited-Recharge
 

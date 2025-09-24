@@ -2,10 +2,9 @@
 
 ### [InstaCarro website](https://instacarro.com)
 
-I took action defining architectural solutions and processes to improve end-to-end testability, code quality and product delivery, and took part in the research and proof-of-concepts of new technologies and contributed to software architecture designs, building near real-time distributed systems to empower Brazil's fastest growing online car auctioning platform.
+I defined architectural solutions and processes to improve end-to-end testability, code quality, and product delivery, contributing to the design of near real-time distributed systems that handled between 2k to 120k requests per minute for Brazil’s fastest-growing online car auctioning platform.
 
-I helped other departments as Marketing measuring metrics proposing and implementing a feature oriented architecture flexible to A/B testing, increasing business conversions.
-
+I also supported other departments, such as Marketing, by proposing and implementing a feature-oriented architecture flexible to A/B testing, which improved metrics tracking and increased business conversions.
 
 #### Technologies
 
